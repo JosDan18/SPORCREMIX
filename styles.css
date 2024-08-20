@@ -1,7 +1,7 @@
 body {
     color:white;
     background: black;
-    margin: 0px;
+    margin: 0;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
@@ -9,7 +9,7 @@ body {
 header {
     border-bottom: solid 2px rgb(123, 1, 234);
     padding: 20px;
-    font-size:32px;
+    font-size: 32px;
     color: rgb(112, 5, 136);
 }
 
